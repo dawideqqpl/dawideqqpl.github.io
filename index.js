@@ -36,11 +36,11 @@ window.addEventListener("load", function () {
   }
 
   var buildUrl = "Build";
-  var loaderUrl = buildUrl + "/TEst TonConnct.loader.js";
+  var loaderUrl = buildUrl + "/TEst TonConnct 2.loader.js";
   var config = {
-    dataUrl: buildUrl + "/TEst TonConnct.data",
-    frameworkUrl: buildUrl + "/TEst TonConnct.framework.js",
-    codeUrl: buildUrl + "/TEst TonConnct.wasm",
+    dataUrl: buildUrl + "/TEst TonConnct 2.data",
+    frameworkUrl: buildUrl + "/TEst TonConnct 2.framework.js",
+    codeUrl: buildUrl + "/TEst TonConnct 2.wasm",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "DefaultCompany",
     productName: "TonJerry",
