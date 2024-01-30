@@ -47,7 +47,7 @@ function App() {
     display: 'flex',
     justifyContent: 'center',
     alignItems: 'center',
-    height: '100vh',
+   // height: '100vh',
     
 
   };
@@ -78,8 +78,8 @@ function App() {
 
            <Unity 
            style={{
-            width:"100vw",
-            height:"100vh",
+        //    width:"100vw",
+        //    height:"100vh",
            }}
            unityProvider={unityProvider} 
            />
